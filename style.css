@@ -1,0 +1,62 @@
+body {
+
+    background-image: url(imagens/image-trabalho.jpg);
+    
+    padding: 30px;
+}
+
+.paragrafo {
+    color: (63, 35, 35, 0.664);
+    text-align: justify;
+    padding:0px 50px;
+    font-size: 24px;
+    background-color: aliceblue;
+}
+ 
+.imagens-container {
+width: 100%;
+}
+.imagens {
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    margin-left: 40px;
+}
+.imagens img {
+    width: 300px;
+    margin: 50px 250px;
+    padding: 0px 50px;
+}
+table,th,td,tr{border: 1px solid black;
+}
+h1 {
+    color: rgba(204, 91, 25, 0.863);
+    font-size: 70px;
+    text-align: center;
+   margin: 0px;
+   padding: 20px 250px; 
+}
+.video {
+    width: 600px;
+}
+.tabela-box {
+    background-color: rgb(195, 195, 233);
+}
+h2 {
+    text-align: center;
+}
+.lista-box {
+    
+    background-color: rgb(226, 185, 169);
+}
+.lista {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+li {
+    display: block;
+}
+ .video{
+    margin-left: 380px;
+ }   
